@@ -1,6 +1,15 @@
 # hrext08-my-cruddy-app
 Create Read Update and Delete framework using JS
 
+Digital Orders:
+
+Build and place an order for  a Sundae.
+Choose your ice cream flavors. READ: Menu for ice-cream
+Choose your toppings. DElEATE OR ADD TOPPINGS
+Place your orders.  CREATE and UPDATE
+See old orders.  READ
+Favorite orders. SAVE UPDATE
+Database: Local Storage
 
 ## Tasks
 
